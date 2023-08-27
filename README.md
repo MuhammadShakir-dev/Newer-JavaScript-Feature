@@ -9,7 +9,6 @@ Welcome to the "Newer JavaScript Features" repository! This repository serves as
 5. Destructuring Arrays.
 6. Destructuring Objects.
 7. Destructuring Parameters.
-8. Default Parameters.
 
 Learn how to set default values for function parameters in JavaScript, allowing you to write more robust and flexible functions.
 
